@@ -1,2 +1,2 @@
-# bookmark-application
-with the help from traversy media
+# js-template
+template for javascript learning
